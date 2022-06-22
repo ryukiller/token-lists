@@ -1,8 +1,8 @@
 {
-  "name": "@uniswap/token-lists",
+  "name": "@ariswap/token-lists",
   "author": {
-    "name": "Uniswap Labs",
-    "email": "contact@uniswap.org",
+    "name": "Ariswap Labs",
+    "email": "contact@ariswap.org",
     "url": "https://uniswap.org"
   },
   "description": "📚 The Token Lists specification",
@@ -18,7 +18,7 @@
     "node": ">=10"
   },
   "repository": {
-    "url": "https://github.com/Uniswap/token-lists",
+    "url": "https://github.com/Ariswap/token-lists",
     "type": "git"
   },
   "scripts": {
